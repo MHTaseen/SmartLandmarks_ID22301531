@@ -1,0 +1,14 @@
+AI USAGE SPECIFICATION
+----------------------
+Role: Collaborative Debugger and Boilerplate Generator
+
+Tasks:
+1. Debugging Gradle Sync: AI was used to resolve 'kapt' version conflicts 
+   arising from the built-in Kotlin support in Android Studio 2024.
+2. Retrofit Setup: Provided the standard interface template for 
+   communicating with the specific PHP API provided.
+3. Error Troubleshooting: Assisted in interpreting 'extension already 
+   registered' errors during the build process.
+
+The core logic, UI design choices, and fragment navigation were 
+implemented manually by me.
